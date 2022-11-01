@@ -14,6 +14,10 @@ apiMock.onGet("/users").reply(200, {
     { id: 3, name: "Clark Kent" },
     { id: 4, name: "Peter Parker" },
     { id: 5, name: "Bruce Wayne" },
+    { id: 6, name: "Bruce Wayne" },
+    { id: 7, name: "Bruce Wayne" },
+    { id: 8, name: "Bruce Wayne" },
+    { id: 9, name: "Bruce Wayne" },
   ],
 });
 
